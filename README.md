@@ -1,3 +1,6 @@
+# This project is abandoned
+Use https://github.com/acquia/gajira-create instead
+
 # Jira Create
 Create new issue
 
